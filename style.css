@@ -1,0 +1,35 @@
+.resume .left ul{
+    list-style: none;
+   }
+  
+   .resume .left{
+    width: 280px;
+    background: #f8f9fa;
+    padding-top: 20px;
+    
+   }
+   .resume .right{
+    border-bottom: 0px;
+    padding-left: 50px;
+
+   }
+   .resume{
+    display: flex;
+    
+   }
+   .resume .right .menu{
+    padding-top: 50px;
+   }
+   .resume .right .content{
+    padding-top: 20px;
+   }
+   .resume .right .content table {
+    border: 1px solid black;
+    /* width: 900px;
+    height: 200px; */
+   }
+   .resume .right ul li{
+    display: inline;
+    letter-spacing: normal;
+    list-style: disc;
+   }
